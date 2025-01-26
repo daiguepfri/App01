@@ -1,6 +1,6 @@
-# myapp
+# App01
 
-A new Flutter project.
+Sistema desenvolvido como atividade do Talento Tech.
 
 ## Getting Started
 
